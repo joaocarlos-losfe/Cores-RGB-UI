@@ -1,0 +1,10 @@
+A:\Programação\Projetos do visual studio\Definição e alteração de cores\Definição e alteração de cores\bin\Debug\Definição e alteração de cores.exe.config
+A:\Programação\Projetos do visual studio\Definição e alteração de cores\Definição e alteração de cores\bin\Debug\Definição e alteração de cores.exe
+A:\Programação\Projetos do visual studio\Definição e alteração de cores\Definição e alteração de cores\bin\Debug\Definição e alteração de cores.pdb
+A:\Programação\Projetos do visual studio\Definição e alteração de cores\Definição e alteração de cores\obj\Debug\Definição e alteração de cores.csprojAssemblyReference.cache
+A:\Programação\Projetos do visual studio\Definição e alteração de cores\Definição e alteração de cores\obj\Debug\Definição_e_alteração_de_cores.Form1.resources
+A:\Programação\Projetos do visual studio\Definição e alteração de cores\Definição e alteração de cores\obj\Debug\Definição_e_alteração_de_cores.Properties.Resources.resources
+A:\Programação\Projetos do visual studio\Definição e alteração de cores\Definição e alteração de cores\obj\Debug\Definição e alteração de cores.csproj.GenerateResource.cache
+A:\Programação\Projetos do visual studio\Definição e alteração de cores\Definição e alteração de cores\obj\Debug\Definição e alteração de cores.csproj.CoreCompileInputs.cache
+A:\Programação\Projetos do visual studio\Definição e alteração de cores\Definição e alteração de cores\obj\Debug\Definição e alteração de cores.exe
+A:\Programação\Projetos do visual studio\Definição e alteração de cores\Definição e alteração de cores\obj\Debug\Definição e alteração de cores.pdb
